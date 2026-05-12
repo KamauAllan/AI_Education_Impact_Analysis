@@ -2,7 +2,7 @@
 
 A comprehensive SQL + Python analysis examining how AI tool usage affects university student performance.
 
-![Usage Intensity Analysis](outputs/01_intensity_impact.png)
+![Usage Intensity Analysis](Outputs/01_intensity_impact.png)
 
 ---
 
@@ -26,7 +26,7 @@ A comprehensive SQL + Python analysis examining how AI tool usage affects univer
 
 Students using AI moderately outperform heavy users, suggesting quality over quantity.
 
-![Usage Intensity Impact](outputs/01_intensity_impact.png)
+![Usage Intensity Impact](Outputs/01_intensity_impact.png)
 
 ---
 
@@ -35,7 +35,7 @@ Students using AI moderately outperform heavy users, suggesting quality over qua
 
 Tool choice matters marginally—Gemini users show slightly better performance.
 
-![Tools Performance](outputs/02_tools_performance.png)
+![Tools Performance](Outputs/02_tools_performance.png)
 
 ---
 
@@ -44,7 +44,7 @@ Tool choice matters marginally—Gemini users show slightly better performance.
 
 High dependency doesn't hurt grades as expected, but doesn't help either—AI is a neutral tool.
 
-![Dependency Analysis](outputs/03_dependency_paradox.png)
+![Dependency Analysis](Outputs/03_dependency_paradox.png)
 
 ---
 
