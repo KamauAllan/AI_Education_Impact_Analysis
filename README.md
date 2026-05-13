@@ -77,16 +77,16 @@ Insights & Visualizations
 
 ## 📁 Repository Structure
 ai-education-impact-analysis/
-├── data/
+├── Data/
 │   ├── raw/
 │   ├── processed/
 │   └── sql_results/
-├── notebooks/
+├── Notebooks/
 │   ├── 01_data_exploration.ipynb
 │   └── 02_statistical_analysis.ipynb
-├── sql/
-│   └── [8 SQL query files]
-├── outputs/
+├── SQL/
+│   └── [5 SQL query files]
+├── Outputs/
 │   ├── 01_intensity_impact.png
 │   ├── 02_tools_performance.png
 │   └── 03_dependency_paradox.png
