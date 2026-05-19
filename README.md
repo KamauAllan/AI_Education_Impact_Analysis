@@ -33,7 +33,7 @@ Students using AI moderately outperform heavy users, suggesting quality over qua
 ### 2️⃣ Tool Performance
 **Gemini leads with 1,101 users averaging 56.85 final score**
 
-Tool choice matters marginally—Gemini users show slightly better performance.
+Tool choice matters marginally,Gemini users show slightly better performance.
 
 ![Tools Performance](Outputs/02_tools_performance.png)
 
@@ -77,20 +77,20 @@ Insights & Visualizations
 
 ## 📁 Repository Structure
 ai-education-impact-analysis/
-├── Data/
-│   ├── raw/
-│   ├── processed/
-│   └── sql_results/
-├── Notebooks/
-│   ├── 01_data_exploration.ipynb
-│   └── 02_statistical_analysis.ipynb
-├── SQL/
-│   └── [5 SQL query files]
-├── Outputs/
-│   ├── 01_intensity_impact.png
-│   ├── 02_tools_performance.png
-│   └── 03_dependency_paradox.png
-└── README.md
+ ....Data/
+│   raw/
+│   processed/
+│   sql_results/
+..... Notebooks/
+│    01_data_exploration.ipynb
+│    02_statistical_analysis.ipynb
+..... SQL/
+│    [5 SQL query files]
+..... Outputs/
+│    01_intensity_impact.png
+│    02_tools_performance.png
+│   03_dependency_paradox.png
+..... README.md
 
 ---
 
